@@ -17,6 +17,6 @@ _An adversary attempts to send a phishing email to technical support Employees o
 Meanwhile, the adversary gains access to the employee's company laptop. The adversary delivers a PowerShell script disguised as an executable (EXE) file. This script downloads a PowerShell script (PS1) from a cloud server into memory and executes it, bypassing detection by the employee and the default Windows security mechanisms.
 The PowerShell script is obfuscated to evade antivirus detection. Once the obfuscated script is running in memory, it gains access to the laptop and spams UAC (User Account Control) prompts to obtain administrative rights. After successfully bypassing UAC, the adversary gains full control over the system._
 > [!IMPORTANT]
-> Find [Project introduction and Prerequisites](https://github.com/JOSHUAPBIJU/Project-winEvasion-Redteam/tree/main/Project-Files)
+> Find [Project introduction and Prerequisites](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Project-Files/README.md)
 
 
