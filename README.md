@@ -10,4 +10,4 @@ The project, titled "RED TEAM TACTICS," was built by Joshua and Joyel, in collab
 > Regular updates to FUD payloads are necessary to keep up with the latest Windows security features and ensure continued effectiveness.
 ## Attack - EVENT TIME LINE
 
-![Att&ck Time Line](https://raw.githubusercontent.com/JOSHUAPBIJU/Project-winEvasion-Redteam/main/Resource/attack-time-line.png)
+![Att&ck Time Line](https://raw.githubusercontent.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/main/Resource/attack-time-line.png)
