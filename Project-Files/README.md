@@ -10,3 +10,8 @@ The primary objective of this project is to develop an innovative approach that 
 - Detailed report examining the efficacy of Windows Defender and identifying possible weaknesses within Windows 10 and 11.
 - Creation of FUD payloads that can bypass the latest Windows security measures.
 - An advanced red team strategy guide enhanced by the MITRE ATT&CK Matrix.
+## Impact
+This project will significantly impact cybersecurity by uncovering new insights into the security vulnerabilities of modern operating systems, aiding professionals in better predicting and defending against future cyber threats.
+
+## Conclusion
+The project aims to advance red team engagements and push the limits of current cybersecurity practices, providing deep insights and tools for better security measures.
