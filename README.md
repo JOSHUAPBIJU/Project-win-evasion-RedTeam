@@ -23,7 +23,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 > ATT&CK Navigator File
 
 [Attack json file | download ](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/adversary_tactics_and_techniques_for_phishing_scenario%20(4).json) upload to [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for customization or for better view.
-
-
++ MITRE ATT&CK®
+![MITRE ATT&CK®](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/Adversary_Tactics_and_Techniques_for_Phishing_Scenario(3).svg)
 
 
