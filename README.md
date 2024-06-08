@@ -18,7 +18,10 @@ Meanwhile, the adversary gains access to the employee's company laptop. The adve
 The PowerShell script is obfuscated to evade antivirus detection. Once the obfuscated script is running in memory, it gains access to the laptop and spams UAC (User Account Control) prompts to obtain administrative rights. After successfully bypassing UAC, the adversary gains full control over the system._
 > [!IMPORTANT]
 > Find [MITRE ATT&CK for Scenario](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/Adversary_Tactics_and_Techniques_for_Phishing_Scenario(3).svg)
+> [!IMPORTANT]
+> ATT&CK Navigator File
 
+[Attack json file | download ](https://raw.githubusercontent.com/JOSHUAPBIJU/Project-winEvasion-Redteam/main/Resource/adversary_tactics_and_techniques_for_hacking_win11-10_using_phishing_scenario.json) upload to [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for customization or for better view.
 
 
 
