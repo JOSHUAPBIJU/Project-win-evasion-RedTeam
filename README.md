@@ -28,4 +28,6 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 - [x] The above attack can be improvised 
 - [ ] Effort calculated:- 120 hours 🕙 in 2.5 months 📆 [on-going porject] 	`Approximate value`
 - [ ] Add delight to the experience when all tasks are completed
+- [ ]  [!WARNING]
+> Simulated attacks in this project reveal potential vulnerabilities that adversaries might exploit, emphasizing the need for robust cybersecurity measures.
 
