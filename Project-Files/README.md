@@ -27,3 +27,11 @@ The project aims to advance red team engagements and push the limits of current 
 - [**PowerShell** with script execution policy set to unrestricted](https://learn.microsoft.com/en-us/answers/questions/506985/powershell-execution-setting-is-overridden-by-a-po)
 - [**Administrator privileges** on the Windows system](https://support.microsoft.com/en-us/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563)
 - [**Internet connection** for downloading necessary tools and scripts](#)
+### Tools and Frameworks
+- **MITRE ATT&CK Navigator**: [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
+- **Obfuscation tools**: For creating FUD payloads [will be updated soon..!]
+- **C2 Framework**: In this project Azure Cloud server with kali Linux will act as a command and control for establishing connection with employee system[windows 11VM].
+- **PowerShell**: For scripting language
+- **Vscode**: Programming IDE
+- **Payload delivery**: Custom build Mail server runing in the same Azure Cloud server Kali Linux
+- **PE2EXE**: For converting powershell [.ps1] payload to exe.
