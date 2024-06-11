@@ -40,7 +40,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   3. [MITRE ATT&CK®](https://attack.mitre.org/)
   4. [Attack-Naigator](https://mitre-attack.github.io/attack-navigator/)
   5. [Windows 10/11 security update](https://techcommunity.microsoft.com/t5/windows-servicing/updates-so-often/m-p/39526)
-  6. [Enviroment setup]()
+  6. [Enviroment setup](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/tree/main/Project-Files#environment-setup)
 #### **Update coming soon..!**
       
  
