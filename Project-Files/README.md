@@ -31,6 +31,8 @@ The project aims to advance red team engagements and push the limits of current 
 - **MITRE ATT&CK Navigator**: [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 - **Obfuscation tools**: For creating FUD payloads [will be updated soon..!]
 - **C2 Framework**: In this project Azure Cloud server with kali Linux will act as a command and control for establishing connection with employee system[windows 11VM].
+- **Villian Framework**:We are using the Villain framework to demonstrate how it fails against an updated Windows 11  machine with lastest security measures
+- Metaspolit Framework**:We are also using the Metasploit framework to demonstrate how an updated Windows 11 machine effectively defends against a malicious framework
 - **PowerShell**: For scripting language
 - **Vscode**: Programming IDE
 - **Payload delivery**: Custom build Mail server runing in the same Azure Cloud server Kali Linux
