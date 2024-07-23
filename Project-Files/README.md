@@ -17,7 +17,7 @@ In the second session, we demonstrate how the Villain framework is detected by t
 
 3)Real World Scenario (Our Situation)
 
-
+In our final session, we demonstrate the real-world application of our Fully Undetectable (FUD) payload. Our scenario targets employees at XYZ company who lack cybersecurity knowledge. An adversary sends a phishing email with a malicious EXE file disguised as a security update. Once the employee executes the file on an updated Windows 10/11 machine, the FUD malware activates, granting the attacker access to the company laptop. The malware injects a PowerShell script as a background service and includes a feature to reconnect to the attacker's C2 server at random intervals. The attacker then bypasses User Access Control (UAC) prompts to gain full system control. Using Netcat, we demonstrate the payload's execution and its stealth operation, evading Windows Defender. The proof of concept confirms directory access on the compromised machine.
 
 
 
