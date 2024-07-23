@@ -41,6 +41,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   4. [Attack-Naigator](https://mitre-attack.github.io/attack-navigator/)
   5. [Windows 10/11 security update](https://techcommunity.microsoft.com/t5/windows-servicing/updates-so-often/m-p/39526)
   6. [Villian Framework](https://github.com/t3l3machus/Villain)
+  7. [Metaspolit Framework](https://www.metasploit.com/)
   
       
  
