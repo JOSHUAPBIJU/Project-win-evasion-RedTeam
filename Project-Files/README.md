@@ -11,6 +11,11 @@ We have split our practical sessions into three parts.
 1)Metasolit Framework 
 In this project, we use Metasploit to demonstrate how built-in security features of updated Windows systems detect and block non-FUD payloads. We generate a Windows reverse shell payload using msfvenom, host it on a local server, and attempt to download it via a web browser. The download request is intercepted by Windows Defender, which identifies the payload as malicious, leading to the file's quarantine and deletion. This demonstrates the effectiveness of modern security measures against non-FUD exploits.
 
+2)Villian Framework 
+
+In the second session, we demonstrate how the Villain framework is detected by the latest Windows security measures. Villain, effective before 2022, helped adversaries gain access to victim machines but is now easily detected by updated Windows Defender features. Despite its previous capabilities, Villain cannot bypass Windows 10/11 security due to robust features like real-time protection and User Account Control (UAC). The steps include cloning the Villain repository, generating a payload, and executing it in PowerShell. The Windows security system promptly detects and quarantines the payload, showcasing the advancements in Windows Defender's capabilities.
+
+3)Real World Scenario (Our Situation)
 
 
 
