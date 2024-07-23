@@ -58,4 +58,4 @@ The project aims to advance red team engagements and push the limits of current 
 - Conduct simulated attacks using the developed methodologies on test environments that closely resemble real-world scenarios.
 - Use Kali Linux as the attacker machine and Windows 10 or 11 with updated defender security features as targets.
 - Evaluate the effectiveness of the FUD payloads and document any detected vulnerabilities.
-## update required in Tools and Framework...!
+
