@@ -5,6 +5,18 @@ In today's evolving cybersecurity landscape, the threats are becoming more sophi
 
 ## Objectives
 The primary objective of this project is to develop an innovative approach that integrates the MITRE ATT&CK Matrix with sophisticated red team techniques to identify and exploit security vulnerabilities within Windows 10 and Windows 11 operating systems.
+## Pratical Implemenation 
+We have split our practical sessions into three parts.
+
+1)Metasolit Framework 
+In this project, we use Metasploit to demonstrate how built-in security features of updated Windows systems detect and block non-FUD payloads. We generate a Windows reverse shell payload using msfvenom, host it on a local server, and attempt to download it via a web browser. The download request is intercepted by Windows Defender, which identifies the payload as malicious, leading to the file's quarantine and deletion. This demonstrates the effectiveness of modern security measures against non-FUD exploits.
+
+
+
+
+
+
+
 
 ## Expected Outcomes
 - Detailed report examining the efficacy of Windows Defender and identifying possible weaknesses within Windows 10 and 11.
