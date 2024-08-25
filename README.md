@@ -34,11 +34,11 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 > [!CAUTION]
 > This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
 > ### Attack and C2 Setup 
-  1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
+  1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/ubuntu-server-config-for-C2-mailserver.md)
   2. [Powershell Script to Payload.exe](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/powershell-script-2-exe.md)
   3. [Python Script for Sending Mail with Payload.exe](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/mail-sending-python-script.md)
   4. [Metasploit Payload Generating](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/mataspolit-payload-gen-step.md)
-  5. [Villain Payload](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Villain-payload-gen-step.md)
+  5. [Villain Payload](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/tree/main/Resource)
 ### **References**
 
   1. [scenario reference-01](https://www.techopedia.com/antivirus/antivirus-statistics)
