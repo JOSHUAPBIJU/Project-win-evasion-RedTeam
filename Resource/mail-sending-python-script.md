@@ -6,7 +6,7 @@ b. The mail script is available on our [GitHub profile](## 1. Python Script for 
 
 a. We use a Python script to automatically send emails, simulating real-world email sending delays and purposes.
 
-b. The mail script is available on our [GitHub profile]().
+b. The mail script is available on our [GitHub profile](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/tree/main/Project-Files/mail%20server).
 
 c. The Python script has a pre-designed email template that includes different attachments according to the scenario.
 
