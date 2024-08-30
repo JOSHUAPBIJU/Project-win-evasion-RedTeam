@@ -39,6 +39,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   3. [Python Script for Sending Mail with Payload.exe](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/mail-sending-python-script.md)
   4. [Metasploit Payload Generating](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/mataspolit-payload-gen-step.md)
   5. [Villain Payload](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/villian-payload-genstep.md)
+  6. [Windows dwfender analysis scrpit](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/Windows-Defender-script.md)
 ### **References**
 
   1. [scenario reference-01](https://www.techopedia.com/antivirus/antivirus-statistics)
