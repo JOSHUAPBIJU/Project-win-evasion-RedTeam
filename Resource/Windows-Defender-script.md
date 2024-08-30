@@ -24,5 +24,5 @@ This repository contains a PowerShell script designed to analyze the status and 
   - The script waits for the user to press "Enter" before exiting.
 ### How to Use the Script
 
-1. **Download the**  [script](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/Windows-Defender-script.md?plain=1)
+1. **Download the**  [script](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Project-Files/analyse-win-def.ps1)
 2. **RUn the script as Administrator** in poweshell
