@@ -22,6 +22,23 @@ This repository contains a PowerShell script designed to analyze the status and 
   - **Note:** The script no longer outputs details regarding the last Defender update due to previous parsing issues and to streamline the output.
 
   - The script waits for the user to press "Enter" before exiting.
+    
+  - ## 1. Script Description and User Instruction
+  - The script starts with comments explaining its purpose and behavior:
+  - Analyze-WindowsDefender.ps1
+  - This script checks the status of Windows Defender, including its health, current status, and pending updates.
+  - The script will not exit until the user presses "Enter".
+
+## 2. Function to Ensure Administrative Privileges
+  - This function, `Ensure-Admin`, checks if the script is running with administrator rights and restarts it with the required privileges if it's not.
+  ![alt text](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/fun-ensure-admin-privillage.png)
+
+## 3. Main Execution - Checking Windows Defender Status
+
+After ensuring the script runs with administrative privileges, it defines and invokes another function, `Get-DefenderStatus`, to fetch and display the status of Windows Defender.
+
+![alt text](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Resource/main-exe-checkingwindows-defe-status.png)
+
 ### How to Use the Script
 
 1. **Download the**  [script](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Project-Files/analyse-win-def.ps1)
