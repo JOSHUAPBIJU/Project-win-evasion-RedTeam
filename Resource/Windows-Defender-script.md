@@ -43,3 +43,7 @@ After ensuring the script runs with administrative privileges, it defines and in
 
 1. **Download the**  [script](https://github.com/JOSHUAPBIJU/Project-win-evasion-RedTeam/blob/main/Project-Files/analyse-win-def.ps1)
 2. **RUn the script as Administrator** in poweshell
+   
+> ###Summary:
+> - Ensure-Admin Function: Ensures the script is run with administrative privileges.
+> - Get-DefenderStatus Function: Fetches and displays the status of Windows Defender, including the last quick scan and full scan details.
