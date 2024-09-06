@@ -33,12 +33,6 @@ Move the Payload Move the payload to /var/www/html, so the user can click and do
 ```bash
     sudo mv /path/to/payload/file /var/www/html/
 ```
-
-Here's the corrected and formatted GitHub README in Markdown:
-
-markdown
-
-   ```
 ### Conclusion
 
 > With this setup, you have a basic C2 and mail server configuration on your Ubuntu server. The Mailhog server handles internal mail, while Apache2 serves payloads for download.
