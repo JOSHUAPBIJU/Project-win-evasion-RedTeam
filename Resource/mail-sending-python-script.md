@@ -1,8 +1,4 @@
-## 1. Python Script for Sending Mail with Payload.exe
-
-a. We use a Python script to automatically send emails, simulating real-world email sending delays and purposes.
-
-b. The mail script is available on our [GitHub profile](## 1. Python Script for Sending Mail with Payload.exe
+ 1. Python Script for Sending Mail with Payload.exe
 
 a. We use a Python script to automatically send emails, simulating real-world email sending delays and purposes.
 
