@@ -1,5 +1,5 @@
 # Project-win-evasion-RedTeam
-The project, titled "RED TEAM TACTICS," was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) and [Joyel Porunnedath Biju](https://github.com/joyelpbiju), in collaboration with [Zishnu Viknesh Shivakumar](https://github.com/shivakumarzishnuviknesh7), [Riya Mariya Varghese](https://github.com/Riya-Mariya), and [Obinna Hillary Ibekwe](https://github.com/Ibekwe-1), all students from FH Schmalkalden University of Applied Sciences.
+The project, titled "RED TEAM TACTICS," was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) and [Joyel Porunnedath Biju](https://github.com/joyelpbiju)
 > [!NOTE]
 > This project integrates the MITRE ATT&CK framework with advanced red team tactics to identify and exploit security vulnerabilities in Windows systems.
 
